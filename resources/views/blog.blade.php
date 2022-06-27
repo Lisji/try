@@ -92,6 +92,10 @@
         </div>
 
       </div>
+      <div id="app" v-cloak>
+        <example-component></example-component>
+        </div>
+      </body>
+      <script src="/js/app.js"></script>
     </section><!-- End Blog Section -->
-
 @endsection
